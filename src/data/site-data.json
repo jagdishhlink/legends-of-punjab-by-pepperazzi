@@ -1,0 +1,331 @@
+{
+  "business": {
+    "name": "Legends Of Punjab by Pepperazzi",
+    "category": "Punjabi restaurant",
+    "address": "\n1 st, 120 Feet Ring Rd, Gulbai Tekra, Ahmedabad, Gujarat 380015",
+    "phone": "\n074050 12175",
+    "email": "",
+    "website": "http://www.legendsofpunjab.com/",
+    "mapUrl": "https://www.google.com/maps/place/Legends+Of+Punjab+by+Pepperazzi/@23.0275151,72.5455608,17z/data=!3m1!4b1!4m6!3m5!1s0x395e852252c5e425:0x340ac30b1be94f0c!8m2!3d23.0275151!4d72.5455608!16s%2Fg%2F11fj321vfg?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+    "latitude": "23.0275151",
+    "longitude": "72.5455608",
+    "rating": "",
+    "reviewsCount": "4100",
+    "openingHours": "Show open hours for the week",
+    "logo": "/images/logo.png",
+    "images": [
+      "/images/img_1780376317093_2.jpg",
+      "/images/img_1780376317675_4.jpg",
+      "/images/img_1780376317949_5.jpg",
+      "/images/img_1780376318224_6.jpg",
+      "/images/img_1780376318498_7.jpg",
+      "/images/img_1780376318771_8.jpg",
+      "/images/img_1780376319044_9.jpg",
+      "/images/img_1780376319594_11.jpg",
+      "/images/gmap_1780376320129_0.jpg",
+      "/images/gmap_1780376320225_1.jpg",
+      "/images/gmap_1780376320313_2.jpg",
+      "/images/gmap_1780376320600_3.jpg",
+      "/images/gmap_1780376320690_4.jpg",
+      "/images/gmap_1780376320852_5.jpg",
+      "/images/gmap_1780376320942_6.jpg",
+      "/images/gmap_1780376321045_7.jpg",
+      "/images/gmap_1780376321132_8.jpg",
+      "/images/gmap_1780376321360_9.jpg",
+      "/images/gmap_1780376321614_10.jpg",
+      "/images/gmap_1780376321911_11.jpg",
+      "/images/gmap_1780376322347_12.jpg",
+      "/images/gmap_1780376322563_13.jpg",
+      "/images/gmap_1780376322648_14.jpg",
+      "/images/gmap_1780376323163_15.jpg",
+      "/images/gmap_1780376323250_16.jpg",
+      "/images/site_1.png",
+      "/images/site_2.png",
+      "/images/site_6.png",
+      "/images/site_7.png",
+      "/images/site_8.png",
+      "/images/site_9.png",
+      "/images/img_1780376314917_0.jpg"
+    ],
+    "description": "",
+    "socials": {}
+  },
+  "content": {
+    "hero": {
+      "headline": "Authentic Punjab Flavors in Gulbai Tekra",
+      "subheadline": "Step into the heart of Punjab right here on 1st Street. Every dish tells a story of tradition, prepared with love and served with the warmth that makes Gulbai Tekra feel like home.",
+      "cta": "Order Now",
+      "ctaSecondary": "View Menu"
+    },
+    "about": {
+      "title": "Where Punjab Meets Gulbai Tekra",
+      "story": "Legends Of Punjab by Pepperazzi brings generations of authentic Punjabi recipes to the vibrant streets of 1st Street. Our kitchen honors traditional cooking methods while creating new memories for families across Gulbai Tekra. With 4100 satisfied diners, we've become the neighborhood's gathering place for those seeking genuine flavors and warm hospitality.",
+      "highlights": [
+        {
+          "icon": "🔥",
+          "title": "Clay Oven Mastery",
+          "description": "Every naan and tandoori dish emerges from our traditional clay tandoor, giving you that authentic smoky flavor impossible to replicate"
+        },
+        {
+          "icon": "👨‍🍳",
+          "title": "Family Recipe Heritage",
+          "description": "Our chefs carry forward recipes passed down through generations, ensuring every bite connects you to Punjab's rich culinary history"
+        },
+        {
+          "icon": "🌾",
+          "title": "Fresh Daily Preparation",
+          "description": "We grind our spices fresh each morning and prepare everything from scratch, never compromising on quality or authenticity"
+        },
+        {
+          "icon": "🏠",
+          "title": "Neighborhood Heart",
+          "description": "More than a restaurant, we're Gulbai Tekra's gathering place where friends become family over shared meals and laughter"
+        }
+      ]
+    },
+    "services": {
+      "title": "Flavors That Tell Stories",
+      "items": [
+        {
+          "icon": "🍛",
+          "title": "Traditional Punjabi Thalis",
+          "description": "Complete meals featuring dal makhani, butter chicken, fresh rotis, and seasonal vegetables served on traditional brass plates."
+        },
+        {
+          "icon": "🔥",
+          "title": "Tandoor Specialties",
+          "description": "Succulent kebabs, perfectly charred naans, and aromatic biryanis prepared in our authentic clay tandoor oven."
+        },
+        {
+          "icon": "🥘",
+          "title": "Rich Curry Collection",
+          "description": "From creamy paneer makhani to robust rajma, each curry simmers with carefully balanced spices and authentic cooking techniques."
+        },
+        {
+          "icon": "🍞",
+          "title": "Fresh Bread Varieties",
+          "description": "Hand-rolled rotis, flaky parathas, and stuffed kulchas made fresh throughout the day to complement every meal."
+        },
+        {
+          "icon": "🚗",
+          "title": "Home Delivery",
+          "description": "Enjoy authentic Punjab flavors in the comfort of your home with our reliable delivery service across Gulbai Tekra."
+        },
+        {
+          "icon": "🎉",
+          "title": "Family Celebrations",
+          "description": "Let us cater your special occasions with generous portions and festive presentations that honor Punjabi hospitality traditions."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Stories from Our Table",
+      "items": [
+        {
+          "name": "Rajesh Sharma",
+          "role": "Regular Customer",
+          "text": "The butter chicken here reminds me of my grandmother's cooking. Every visit feels like coming home to Punjab.",
+          "rating": 5
+        },
+        {
+          "name": "Priya Patel",
+          "role": "Food Enthusiast",
+          "text": "Finally found authentic Punjabi food in Ahmedabad! The dal makhani is absolutely divine and the service is so warm.",
+          "rating": 5
+        },
+        {
+          "name": "Arjun Singh",
+          "role": "Local Resident",
+          "text": "Been ordering from here for months now. The consistency in taste and quality is remarkable. Highly recommend the tandoori platter!",
+          "rating": 5
+        }
+      ]
+    },
+    "faq": {
+      "title": "Everything You Want to Know",
+      "items": [
+        {
+          "question": "Do you accommodate dietary restrictions like vegetarian or vegan preferences?",
+          "answer": "Absolutely! We have an extensive vegetarian menu featuring traditional dishes like palak paneer, chole bhature, and dal tadka. We can also prepare vegan versions of many dishes upon request."
+        },
+        {
+          "question": "How spicy are your dishes, and can you adjust the heat level?",
+          "answer": "Our dishes range from mild to moderately spicy by default. We're happy to adjust spice levels according to your preference - just let us know when ordering."
+        },
+        {
+          "question": "What's your delivery area and timing from the Gulbai Tekra location?",
+          "answer": "We deliver within a 5km radius of our 1st Street location, typically taking 30-45 minutes. You can call us at 074050 12175 to confirm delivery to your area."
+        },
+        {
+          "question": "Do you offer combo meals or family pack options?",
+          "answer": "Yes! Our Punjabi thalis are perfect individual meals, and we have family packs serving 4-6 people with a variety of curries, breads, and rice."
+        },
+        {
+          "question": "Can I place advance orders for parties or special occasions?",
+          "answer": "Definitely! We recommend placing large orders at least 24 hours in advance. Call us to discuss menu options and quantities for your celebration."
+        },
+        {
+          "question": "What makes your tandoor dishes special compared to other restaurants?",
+          "answer": "We use a traditional clay tandoor that reaches extremely high temperatures, giving our breads and meats that authentic smoky flavor and perfect char you can't get from regular ovens."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Come Hungry, Leave Happy",
+      "subtitle": "Visit us on 1st Street or call for the fastest route to authentic Punjabi flavors"
+    },
+    "cta": {
+      "title": "Your Next Punjabi Feast Awaits",
+      "subtitle": "Don't wait - authentic flavors and warm hospitality are just a call away",
+      "button": "Order Now"
+    },
+    "meta": {
+      "title": "Legends Of Punjab by Pepperazzi | Authentic Punjabi Restaurant Gulbai Tekra Ahmedabad",
+      "description": "Experience authentic Punjabi cuisine at Legends Of Punjab by Pepperazzi on 1st Street, Gulbai Tekra. Fresh tandoor dishes, traditional curries & warm hospitality."
+    }
+  },
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "type": "home",
+      "sections": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "variant": "split"
+        },
+        {
+          "id": "gallery-preview",
+          "type": "gallery",
+          "variant": "grid"
+        },
+        {
+          "id": "testimonials-preview",
+          "type": "testimonials",
+          "variant": "cards"
+        },
+        {
+          "id": "home-cta",
+          "type": "cta",
+          "variant": "banner"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "Where Punjab Meets Gulbai Tekra",
+      "type": "about",
+      "sections": [
+        {
+          "id": "about-full",
+          "type": "narrative",
+          "variant": "split-image"
+        },
+        {
+          "id": "highlights",
+          "type": "grid",
+          "columns": 2,
+          "variant": "compact"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "title": "Flavors That Tell Stories",
+      "type": "services",
+      "sections": [
+        {
+          "id": "services-full",
+          "type": "grid",
+          "columns": 3,
+          "variant": "detailed"
+        }
+      ]
+    },
+    {
+      "slug": "gallery",
+      "title": "Gallery",
+      "type": "gallery",
+      "sections": [
+        {
+          "id": "gallery-full",
+          "type": "gallery",
+          "variant": "masonry"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Come Hungry, Leave Happy",
+      "type": "contact",
+      "sections": [
+        {
+          "id": "contact-full",
+          "type": "contact",
+          "variant": "split-map"
+        }
+      ]
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "design": {
+    "colors": {
+      "primary": "#d97706",
+      "primaryHover": "#b45309",
+      "secondary": "#dc2626",
+      "accent": "#f59e0b",
+      "background": "#faf7f2",
+      "surface": "#ffffff",
+      "text": "#1f2937",
+      "textMuted": "#6b7280",
+      "border": "#e5e7eb"
+    },
+    "typography": {
+      "headingFont": "Playfair Display",
+      "bodyFont": "DM Sans",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "scale": 1.25,
+      "lineHeight": 1.6
+    },
+    "spacing": {
+      "sectionPadding": "80px",
+      "containerWidth": "1200px",
+      "cardPadding": "24px",
+      "gap": "24px"
+    },
+    "radius": {
+      "button": "8px",
+      "card": "12px",
+      "image": "8px"
+    },
+    "shadows": {
+      "card": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+      "cardHover": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+    },
+    "darkMode": false
+  }
+}
